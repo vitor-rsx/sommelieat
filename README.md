@@ -6,3 +6,8 @@ Para recomendações personalizadas, conte-me sobre seus restaurantes favoritos 
 Com o SommeliEat, encontrar o restaurante perfeito será fácil e rápido!
 
 Au revoir!
+
+# Instruções
+- Criar uma nova secret para armazenar sua chave de API do Google AI. Para isso, clique na barra lateral esquerda do Colab no icone da 'chave', definindo com o nome: SECRET_KEY.
+- Interaja com o chat dando detalhes sobre seus planos e pedindo sugestões.
+- Digite 'Sair' para encerrar o chat.
